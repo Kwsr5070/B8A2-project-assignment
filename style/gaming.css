@@ -78,6 +78,22 @@ h3{
     display: flex;
    margin: auto;
 }
+.gamer-4-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 240px 0px 427px;
+}
+.image---8{
+    position: relative;
+    left: 150px;
+    
+    
+}
+.image--9{
+   
+}
+    
+   
     
 @media screen and (max-width: 576px){
     
