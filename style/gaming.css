@@ -36,6 +36,7 @@ h3{
     background-color: #F948B2;
     padding: 10px;
     border-radius: 20px;
+    color: white;
 }
 .btn-2{
     background-color: #4EC5F7;;
@@ -66,6 +67,18 @@ h3{
 h3{
     text-color:  #F948B2 0%, #8758F1 100%;
 }
+.gamer-3-sec{
+    text-align: center;
+}
+.gamer-description{
+    color: #534C64;;
+   font-size: 18px;
+}
+.gamer--image4{
+    display: flex;
+   margin: auto;
+}
+    
 @media screen and (max-width: 576px){
     
 }
