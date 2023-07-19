@@ -1,0 +1,25 @@
+*{
+    font-family: Work Sans;
+}
+header{
+    padding: 45px 240px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 30px;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: 1rem;
+}
+h3{
+    font-size: 45px;
+button{
+   background-color: rgba(11, 2, 35, 0.10);;
+}
