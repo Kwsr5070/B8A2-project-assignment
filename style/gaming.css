@@ -92,6 +92,23 @@ h3{
 .image--9{
    
 }
+.carrer-content{
+   padding: 5px 260px;
+}
+.carrer-discribtion{
+    display: grid;
+    grid-template-rows: auto;
+
+}
+.game-position{
+    display: flex;
+    gap: 20px;
+    padding: 5px 260px;
+    
+}
+   
+   
+
     
    
     
